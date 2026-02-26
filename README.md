@@ -27,8 +27,8 @@ Atualmente estou desenvolvendo projetos full stack e fortalecendo minha base em 
 
 ## 📂 Projetos em destaque
 🔹 [BlogPessoal] (https://github.com/vitorialima358-jpg/Nest.git)
-🔹 [GenForceFit](https://github.com/Grupo-08-Turma-JavaScript-11/GenForceFit)
-🔹 [Farmacia] (https://github.com/vitorialima358-jpg/projeto_final_bloco_02.git)
+🔹 [GenForceFit](git@github.com:Grupo-08-Turma-JavaScript-11/genforcefit_platform.git)
+
 
 ---
 
