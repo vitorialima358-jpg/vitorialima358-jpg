@@ -1,39 +1,52 @@
-# 👋 Olá, eu sou a Vitória Lima!
+👋 Olá, eu sou a Vitória Lima!
 
-🎓 Formada em Farmácia  
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Em transição de carreira para Tecnologia  
-📚 Participante do bootcamp Generation Brasil  
+🎓 Formada em Farmácia
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Em transição de carreira para Tecnologia
+📚 Desenvolvedora Full Stack pela Generation Brasil
 
----
+💡 Sobre mim
 
-## 💡 Sobre mim
-Sou uma profissional em transição da área da saúde para tecnologia, com foco em desenvolvimento backend e qualidade de software.  
-Tenho experiência com projetos acadêmicos e práticos utilizando JavaScript, TypeScript, Node.js e NestJS.
+Sou estudante de Análise e Desenvolvimento de Sistemas, em transição da área da saúde para a tecnologia, com interesse em Qualidade de Software (QA), Desenvolvimento Front-end e Back-end.
 
-Atualmente estou desenvolvendo projetos full stack e fortalecendo minha base em lógica de programação, banco de dados e versionamento com Git/GitHub.
+Tenho experiência em projetos acadêmicos utilizando JavaScript, TypeScript, Node.js, HTML, CSS e MySQL, além de conhecimentos em Git/GitHub, metodologias ágeis (Scrum) e fundamentos de testes de software.
 
----
+Estou sempre buscando aprender novas tecnologias e desenvolver soluções com foco em qualidade, organização e experiência do usuário.
 
-## 🛠️ Tecnologias e Ferramentas
-- HTML5 | CSS3
-- JavaScript | TypeScript
-- Node.js | NestJS
-- MySQL
-- Git | GitHub
-- VS Code
+🛠️ Tecnologias e Ferramentas
+HTML5 | CSS3
+JavaScript | TypeScript
+Node.js
+MySQL
+Git | GitHub
+VS Code
+Scrum
+Cypress (básico)
+📂 Projetos
 
----
+🔹 Sistema de Chamados – CRUD em TypeScript com Programação Orientada a Objetos.
 
-## 📂 Projetos em destaque
-🔹 [BlogPessoal] (https://github.com/vitorialima358-jpg/Nest.git)
-🔹 [GenForceFit](https://github.com/Grupo-08-Turma-JavaScript-11/genforcefit_platform.git)
+🔹 Blog Pessoal – API REST desenvolvida com NestJS.
+
+🔹 GenForceFit – Projeto Full Stack desenvolvido em equipe utilizando metodologias ágeis.
+
+🧪 Qualidade de Software
+
+- Testes manuais e funcionais
+- Criação de casos de teste
+- Reporte e acompanhamento de bugs
+- Validação de funcionalidades
+- Cypress (básico)
+- Scrum
+
+🎯 Atualmente estudando
+Testes de Software (QA)
+Cypress
+Salesforce
+APIs REST
+SQL
 
 
----
+💼 LinkedIn: https://www.linkedin.com/in/vit%C3%B3ria-aparecida-lima/
 
-## 📫 Onde me encontrar
-- 💼 LinkedIn: www.linkedin.com/in/vitória-aparecida-a33bb512b
-- 📧 Email: vitorialima358@gmail.com
-
-✨ Sempre em evolução e aprendizado contínuo ✨
+📧 E-mail: vitorialima358@gmail.com
