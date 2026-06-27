@@ -24,7 +24,7 @@ Scrum
 Cypress (básico)
 📂 Projetos
 
-🔹 Sistema de Chamados – CRUD em TypeScript com Programação Orientada a Objetos.
+🔹 Livraria Hanna – CRUD em TypeScript com Programação Orientada a Objetos.
 
 🔹 Blog Pessoal – API REST desenvolvida com NestJS.
 
